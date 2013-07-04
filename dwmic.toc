@@ -1,0 +1,16 @@
+## Interface: 30300
+
+## Title: Don't Whisper Me In Combat
+
+## Author: El¾sandr¿s @ C'thun-EU
+
+## Notes: Created in order to not be disturbed when your are fighting for your live.
+
+## Version: 2.5
+
+## Description: Addon destinado a crear una autorespuesta mientras estamos en combate para advertir a quien nos susurre que estamos ocupados.
+
+## SavedVariablesPerCharacter: DWMIC_MSG
+
+dwmic.xml
+dwmic.lua

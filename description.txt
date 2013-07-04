@@ -1,0 +1,51 @@
+im= DWMIC: Don't Whisper Me In Combat =
+Addon created by threkk (Elæsandrøs@C'Thun-Eu in game).
+Email: threkk@gmail.com
+Web: http://dwmic.threkk.com/
+Twitter: @threkk
+
+=== English ===
+Addon created to avoid conversations while you are trying to kill somebody. The addon sends a whispher to the original whisper sender an automatic message which could be personalized. The addon can be disabled whitout logging out, for example, when you are boring while farming.
+
+* To turn on/off the addon: **/dwmic toggle**
+* To personalize the message: **/dwmic what you want to say**
+* To restore the original message: **/dwmic reset**
+
+==== List of changes: ====
+
+===== 2.5 =====
+* Whispers' list available.
+
+===== 2.1 =====
+* Little bugs resolved.
+* French localization available. (Thanks to Ckeurk)
+
+===== 2.0 =====
+* Message personalization implemented.
+* Toggle function implemented.
+
+===== 1.0 =====
+* Basic features implemented.
+
+=== Español ===
+Addon creado para evitar conversaciones mientras tratas de matar algo (o alguien). El addon envia automaticamente un susurro al emisor original, el cual puede ser personalizado. El addon puede ser desactivado sin necesidad de desconectar del juego, por ejemplo, cuando te aburres mientras farmeas.
+
+* Activar/Desactivar el addon: **/dwmic toggle**
+* Personalizar el mensaje: **/dwmic lo que quieras decir**
+* Restaurar el mensaje original: **/dwmic reset**
+
+==== Listado de cambios: ====
+
+===== 2.5 =====
+* Lista de origen de susurros disponible.
+
+===== 2.1 =====
+* Pequeños bugs corregidos. 
+* Localización francesa disponible. (Gracias a Ckeurk)
+
+===== 2.0 =====
+* Personalización del mensaje implementado.
+* Activación/desactivación del addon implementada.
+
+===== 1.0 =====
+* Funciones básicas implementadas.
