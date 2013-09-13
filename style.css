@@ -1,0 +1,56 @@
+// CSS sheet for DWMIC website.
+// Created by Threkk (threkk@gmail.com, @threkk)
+
+body {
+	background-color: black;
+	font: 12px Helvetica;
+	color: #656565;
+}	
+
+#page {
+	width: 900px;
+	margin-top: 50px;
+	margin-bottom: 25px;
+	margin-left: 190px;
+	margin-right: 190px;
+	border: 1px black;
+}
+
+#head {
+	width: 900px;
+	height: 146px;
+	background: url(./images/header.png);
+}
+
+#content {
+	width: 900px;
+	background: url(./back.jpg);
+}
+
+#footer {
+	font: 9px;
+}
+
+h1 {
+	font-size: 15px;
+}
+
+a {
+	color: black;
+}
+
+a:hover {
+	color: withe;
+}
+
+code {
+	width: 300px;
+	margin-left: 150px;
+	margin-right: 150px;
+	background: withe;
+	font: Courier;
+	color: black;
+}
+
+
+	
