@@ -7,5 +7,5 @@ The addon I created detected in game when you are in combat and sends an automat
 
 It's a very old project which I did many years ago. So, don't expect it works at first (I don't know which is the current state of WoW's API) or any quality code.
 
-* Website: http://dwmic.threkk.com/
+* Website: http://threkk.github.io/dwmic/
 * CurseForge: http://wow.curseforge.com/addons/dont-whisper-me-combat/
